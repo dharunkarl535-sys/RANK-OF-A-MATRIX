@@ -17,6 +17,7 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ## Step 4:
 End the program
 ## Program:
+```
 #Program to find the rank of a matrix.
 #Developed by: DHARUN A
 #RegisterNumber:21222522026
@@ -30,6 +31,7 @@ A = np.array([[1, 2, 3],
 rank = np.linalg.matrix_rank(A)
 
 print(rank)
+```
 ## Output:
 <img width="1331" height="700" alt="Screenshot 2026-05-22 092721" src="https://github.com/user-attachments/assets/871ef7af-d8a0-4e9a-90f3-426b8c9c712b" />
 
